@@ -1,0 +1,16 @@
+{
+ "connectionInfo": {},
+ "platform": {
+  "linux": true,
+  "windows": true
+ },
+ "dataSource": {
+  "name": "Hosts File",
+  "description": "Local hosts file",
+  "displayName": "hosts"
+ },
+	"output" :{
+		"ipAddress": "",
+		"host": ""
+	}
+}
